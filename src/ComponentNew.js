@@ -5,6 +5,7 @@ const ComponentNew = () => {
     <div>
       <h1>Adding heading</h1>
       <p>Adding paragraph</p>
+      <p>adding this to put this 1 commit ahead</p>
     </div>
   );
 };
