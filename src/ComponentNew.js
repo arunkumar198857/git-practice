@@ -5,6 +5,7 @@ const ComponentNew = () => {
     <div>
       <h1>Adding heading</h1>
       <p>Adding paragraph</p>
+      <p>Adding this via branch2</p>
     </div>
   );
 };
